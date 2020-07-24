@@ -1,16 +1,39 @@
-### Hi there 👋
+# Bio
+Hi my name is Jordy Mendoza, right now I'm 24 years old, I'm from Mexico, I'm an Java/Kotlin Android Developer with knowledge about others languages, I have about 5 years working as Independent Developer in my personal projects, but also I do freelance works, I like learning about new APIs and features.
 
-<!--
-**jordyamc/jordyamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love the Computer Science, Japanese Animation and Manga, the Japanese Culture, Video Games, etc.
 
-Here are some ideas to get you started:
+I use this to do my Work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hardware:
+[![Intel i5](https://img.shields.io/badge/Intel%20i5-0071c5?style=for-the-badge&logo=intel&labelColor=101010)]()
+[![Free Wolf Mouse](https://img.shields.io/badge/Mouse%20Free%20Wolf-6ecf25?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAyMDAxMDkwNC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTJweCIgaGVpZ2h0PSI1MTJweCIgdmlld0JveD0iMCAwIDUxMjAgNTEyMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+CjxnIGlkPSJsYXllcjEwMSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIj4KIDxwYXRoIGQ9Ik0yMjcwIDUxMDQgYy0yODMgLTM2IC01MTQgLTExNiAtNzExIC0yNDcgLTMwOCAtMjA0IC01MDcgLTUzMiAtNTY0IC05MzIgLTIyIC0xNDggLTIyIC0yNTgyIDAgLTI3MzAgMzcgLTI1OCAxMjQgLTQ2OCAyNzQgLTY2MiAyNzAgLTM1MCA3MTQgLTUzMyAxMjkxIC01MzMgNDAyIDAgNzM3IDg4IDEwMDEgMjYzIDMwOCAyMDQgNTA3IDUzMiA1NjQgOTMyIDIyIDE0OCAyMiAyNTgyIDAgMjczMCAtMzcgMjU4IC0xMjQgNDY4IC0yNzQgNjYyIC0xODggMjQ0IC00NjUgNDA5IC04MTYgNDg3IC0yMDUgNDUgLTU0NCA1OSAtNzY1IDMweiBtNjY0IC0xODMgYzUwMiAtODkgODM2IC0zNjggOTc1IC04MTUgNjMgLTIwMyA2MiAtMTc4IDU4IC0xNTk2IC0zIC0xNDIxIDIgLTEzMDkgLTY4IC0xNTI1IC0xMDYgLTMzMyAtMzUwIC01ODUgLTY4OCAtNzEyIC0xMzEgLTQ5IC00MDYgLTEwMyAtNTI3IC0xMDMgbC0zNCAwIDIgMjk2IDMgMjk2IDUwIDE5IGMxMDggNDAgMjAxIDE1OSAyMjQgMjgzIDE0IDc3IDE0IDQ5NSAwIDU3MSAtMjUgMTM0IC0xMTkgMjUwIC0yMzYgMjkwIGwtMzggMTMgLTUgMzU3IC01IDM1NyAtMjggMjQgYy0zNiAzMSAtNzggMzEgLTExNCAwIGwtMjggLTI0IC01IC0zNTcgLTUgLTM1NyAtMzggLTEzIGMtMTE3IC00MCAtMjExIC0xNTYgLTIzNiAtMjkwIC0xNCAtNzYgLTE0IC00OTQgMCAtNTcxIDIzIC0xMjQgMTE2IC0yNDMgMjI0IC0yODMgbDUwIC0xOSAzIC0yOTYgMiAtMjk2IC0zNCAwIGMtNjYgMCAtMjcxIDMxIC0zNjcgNTUgLTIzOCA2MCAtNDE4IDE1NiAtNTY3IDMwNCAtMTY4IDE2NiAtMjYyIDM0NCAtMzI4IDYyMSAtMTcgNzAgLTE4IDE2NiAtMjEgMTM2MCAtNCAxNDE4IC01IDEzOTMgNTggMTU5NiAxNTEgNDg0IDUxNiA3NjIgMTA5OSA4MzMgMTMxIDE3IDQ4OSA2IDYyNCAtMTh6IG0tMjg4IC0zMTYwIGM1NiAtMjYgMTAxIC04MyAxMTQgLTE0OCA3IC0zNCAxMCAtMTQ0IDggLTI5NiAtMyAtMjI1IC01IC0yNDUgLTI1IC0yODIgLTM5IC03NCAtMTA1IC0xMTUgLTE4MyAtMTE1IC03OCAwIC0xNDQgNDEgLTE4MyAxMTUgLTIwIDM3IC0yMiA1NyAtMjUgMjgyIC0yIDE1MiAxIDI2MiA4IDI5NiAyMCA5OCAxMDMgMTY3IDIwMCAxNjcgMjUgMCA2MyAtOSA4NiAtMTl6Ii8+CiA8L2c+Cgo8L3N2Zz4=&labelColor=101010)]()
+[![HyperX Keyboard](https://img.shields.io/badge/HyperX%20Keyboard-ba2323?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAyMDAxMDkwNC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDEwMDAgMTAwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+CjxnIGlkPSJsYXllcjEwMSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIj4KIDxwYXRoIGQ9Ik05MTcgNzExIGMtMjYgLTMyIC03MyAtODIgLTEwNiAtMTEwIGwtNTkgLTUyIC02NSAzNiBjLTk5IDU1IC0yMzUgODUgLTQwMiA5MiAtNzcgMiAtMTY1IDAgLTE5NSAtNSBsLTU1IC0xMCA1NSAtMSBjMTk0IC00IDQ5NSAtNzggNTcyIC0xNDAgbDIyIC0xOSAtNjAgLTMwIGMtODIgLTQyIC0xNzQgLTcyIC0yNjQgLTg3IGwtNzUgLTEzIDcyIC0xIGM3MCAtMSA3MSAtMiA4MiAtMzEgOCAtMjQgMTYgLTMwIDQwIC0zMCAyOSAwIDI5IDEgMjAgMzIgLTUgMTcgLTggMzIgLTYgMzMgMSAxIDMwIDkgNjUgMTggMzUgMTAgOTEgMzEgMTI0IDQ4IGw2MSAzMSA0OSAtNDkgYzI4IC0yNiA2NCAtNzIgODAgLTEwMSAxNyAtMjkgMzMgLTUxIDM1IC00OCAxMiAxMiAtNDAgMTQ5IC03MyAxOTEgbC0zNSA0NyA0MCA0MyBjMjEgMjMgNTEgNjIgNjYgODUgMjYgNDEgNjggMTMwIDYxIDEzMCAtMiAwIC0yNCAtMjYgLTQ5IC01OXoiLz4KIDxwYXRoIGQ9Ik0xODAgNDczIGMwIC01IDEwIC00MiAyMyAtODMgMjIgLTcyIDI0IC03NSA1NiAtNzggMjYgLTMgMzIgMCAyOCAxMSAtMyA4IC0xNSA0NyAtMjcgODYgLTIwIDY3IC0yMiA3MSAtNTAgNzEgLTE3IDAgLTMwIC0zIC0zMCAtN3oiLz4KIDxwYXRoIGQ9Ik00MDAgNDU0IGM2IC0xNCAxMCAtMjcgMTAgLTI5IDAgLTIgLTMxIC01IC03MCAtNyAtNTYgLTIgLTY4IC02IC02MSAtMTcgOCAtMTIgMjIgLTEyIDk2IDIgNDggOSA4OSAxOCA5MiAyMCAyIDMgMSAxNiAtMyAzMSAtNSAyMiAtMTIgMjYgLTQwIDI2IC0zMiAwIC0zMyAtMSAtMjQgLTI2eiIvPgogPC9nPgoKPC9zdmc+&labelColor=101010)]()
+[![Motorola Moto One Zoom](https://img.shields.io/badge/Motorola_Moto_One_Zoom-FA6709?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+
+### Software Tools:
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+
+### Languages:
+[![JAVA](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![KOTLIN](https://img.shields.io/badge/KOTLIN-1572B6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-7.3-9cf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+
+### Entertainment:
+[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&labelColor=101010)]()
+[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=101010)]()
+[![XBOX](https://img.shields.io/badge/Xbox_One-0e7a0d?style=for-the-badge&logo=xbox&logoColor=white&labelColor=101010)]()
+[![Destiny 2](https://img.shields.io/badge/Destiny_2-808080?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAyMDAxMDkwNC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODRweCIgaGVpZ2h0PSI0NDhweCIgdmlld0JveD0iMCAwIDQ4NDAgNDQ4MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+CjxnIGlkPSJsYXllcjEwMSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIj4KIDxwYXRoIGQ9Ik0yMTExIDQzNDUgYy0xNTcgLTc2IC0yMDUgLTExMiAtMjcwIC0yMDYgLTg3IC0xMjMgLTExNiAtMTk3IC0xNTAgLTM3NSAtMTcgLTg5IC0zMSAtMTkzIC0zMSAtMjMyIDAgLTM5IC0xMyAtMTM5IC0yOSAtMjI0IC0xNiAtODQgLTM0IC0xODggLTQxIC0yMzAgLTIxIC0xNDIgLTE0NSAtNDg2IC0yMzEgLTY0MSAtMjE3IC0zOTMgLTQzNSAtNjIyIC04OTggLTk0MyAtMTQyIC05OCAtMjQyIC0xOTcgLTMwMiAtMzAwIC03MyAtMTI0IC04OSAtMTg4IC04OSAtMzY1IDAgLTEzMCAzIC0xNTggMjUgLTIyNyAyNSAtNzkgMTA0IC0yMTcgMTczIC0zMDEgNzIgLTg4IDIxNyAtMTc3IDM2NyAtMjI0IDExOSAtMzcgMTc2IC00MSAzMDYgLTIyIDEyNiAxOCAxNzAgMzcgMzc3IDE1OSA1OSAzNCAxNTQgODkgMjEyIDEyMSA1OCAzMiAxMTcgNjcgMTMzIDc4IGwyNyAxOSAtMiA0MjYgLTMgNDI3IC0yNyAzIGMtMzcgNCAtMzUgMjUgMiAzOSBsMzEgMTEgLTMgMTM5IGMtMyAxMjkgLTQgMTM4IC0yMyAxNDEgLTQ1IDcgLTQ3IDExIC0yNSAzOSAxNCAxOSAxOSAzNSAxNSA1NCAtNSAyMCAtMiAyOCAxMyAzMSAxNSA0IDIwIDE4IDI1IDc1IDE3IDIwOCAxMTEgMzg5IDI3MSA1MjYgNjUgNTUgOTAgNjkgMTcwIDk2IDE5MyA2NCAzMDkgNzYgNDUxIDQ2IDg1IC0xOCAyMzAgLTg4IDMwNyAtMTUwIDEyNCAtOTcgMTkzIC0yMTQgMjM3IC0zOTkgbDMxIC0xMjggMCAtNjgzIGMwIC02MzYgMSAtNjg0IDE4IC03MDMgMjAgLTI0IDM5MiAtMjM5IDUwNyAtMjkzIDE5NSAtOTIgMzU2IC0xMDcgNTI1IC01MCAxMzggNDcgMjQyIDEwNSAzMjYgMTg0IDEyNCAxMTYgMjEwIDI2NyAyNDAgNDIzIDE4IDk1IDE4IDE1NCAtMSAyNzYgLTE1IDEwNCAtMzYgMTU0IC0xMTIgMjcxIC02NCAxMDAgLTEyMiAxNTMgLTI4NCAyNTkgLTE2NSAxMDkgLTQxNiAzMTUgLTUzNCA0MzkgLTIxOSAyMjkgLTQxMyA1NTQgLTQ5NiA4MzEgLTEyIDQwIC0zNyAxMTIgLTU1IDE2MCAtNDEgMTA4IC02NiAyMzggLTk0IDQ3OCAtMTEgMTAyIC0yMyAyMDQgLTI2IDIyOCAtNSAzNyAtOCA0MiAtMzEgNDIgbC0yNiAwIDIzIDI1IGMyMCAyMSAyMiAyOSAxMyA0NCAtOSAxNCAtOCAyMyAyIDM4IDEzIDE4IDEwIDMwIC0yMSAxMDkgLTQ5IDEyNyAtNjcgMTU5IC0xMzcgMjUyIC00MiA1NiAtODMgOTcgLTEyNyAxMjcgLTM2IDI1IC03NiA1NCAtOTAgNjUgLTE0IDExIC01NyAzMiAtOTUgNDcgLTY2IDI1IC04MiAyNyAtMjU1IDMwIGwtMTg1IDMgLTEzNCAtNjV6Ii8+CiA8cGF0aCBkPSJNMjMxMSAyMjY0IGMtMTg0IC0zOSAtMzI5IC0xODEgLTM4NiAtMzc2IC0xNCAtNTAgLTE2IC0xMTYgLTEzIC01NTUgMyAtNDg2IDQgLTQ5OSAyNiAtNTU3IDc3IC0yMDUgMjc4IC0zNDcgNDkyIC0zNDYgMTM3IDEgMjQ2IDQ3IDM0OCAxNDggMTUwIDE0OCAxNjcgMjQxIDE1OSA4NDcgLTMgMjIwIC0xMSA0MjQgLTE2IDQ1NCAtMjUgMTMzIC0xNDYgMjgxIC0yODIgMzQ2IC0xMTggNTUgLTIwNiA2NiAtMzI4IDM5eiIvPgogPC9nPgoKPC9zdmc+&logoColor=white&labelColor=101010)]()
+
+## Contact me:
+
+#### Social Network:
+[![Facebook](https://img.shields.io/badge/Facebook-@ukikuapp-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/ukikuapp)
+[![Telegram](https://img.shields.io/badge/Telegram-@unbarredstream-1877F2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/unbarredstream)
+
+#### Personal Email:
+[![Email](https://img.shields.io/badge/jordyamc@hotmail.com-my_personal_email_-D14836?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)](mailto:jordyamc@hotmail.com)
