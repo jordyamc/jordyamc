@@ -1,12 +1,12 @@
 <a href="https://github.com/jordyamc">
-  <img height=178 align="center" alt="Vogler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordyamc&show_icons=true&theme=github_dark_dimmed&count_private=true" />
+  <img height=178 align="center" alt="Vogler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordyamc&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_progress" />
 </a>
 <a href="https://wakatime.com/@jordyamc">
-  <img height=178 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=jordyamc&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10" />
+  <img height=178 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=jordyamc&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10&cache_seconds=60" />
 </a>
 
 # Bio
-Hi my name is Jordy Mendoza, right now I'm 27 years old, I'm from Mexico, I'm an Java/Kotlin Android Developer with knowledge about others languages, I have about 5 years working as Independent Developer in my personal projects, but also I do freelance works, I like learning about new APIs and features.
+Hi my name is Jordy Mendoza, I'm from Mexico, I'm mainly a Java/Kotlin Android Developer but sometimes I also use other languages, I have about 5 years working as Independent Developer in my personal projects, but also I do freelance works, I like learning about new APIs and features.
 
 I love the Computer Science, Japanese Animation and Manga, the Japanese Culture, Video Games, etc.
 
