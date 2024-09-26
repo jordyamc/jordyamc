@@ -2,7 +2,7 @@
   <img height=178 align="center" alt="Vogler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordyamc&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_progress" />
 </a>
 <a href="https://wakatime.com/@jordyamc">
-  <img height=178 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=jordyamc&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10&cache_seconds=60" />
+  <img height=178 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=jordyamc&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=5&cache_seconds=60" />
 </a>
 
 # Bio
